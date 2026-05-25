@@ -1,0 +1,17 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Rescue Champ",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Rescue Champ",
+  "start_url": "https://gleaming-blini-c684a8.netlify.app/",
+  "theme_color": "#FF6B2B",
+  "lang": "en",
+  "categories": [
+    "education",
+    "games",
+    "kids"
+  ]
+}
